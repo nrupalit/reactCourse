@@ -1,0 +1,19 @@
+{
+  "name": "reactcourse",
+  "version": "1.0.0",
+  "description": "Simple react course from coursera",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nrupalit/reactCourse.git"
+  },
+  "author": "nrupali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nrupalit/reactCourse/issues"
+  },
+  "homepage": "https://github.com/nrupalit/reactCourse#readme"
+}
